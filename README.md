@@ -28,7 +28,7 @@ Implement a decompression method to reconstruct the original string from the com
 1. Ensure you have Java and Maven installed on your system.
 2. Navigate to the project directory.
 3. Compile the project using Maven: ```mvn compile```
-4. Run the application: ```mvn exec:java```
+4. Run the application:  ```mvn exec:java```
 
 ### How to Run Tests
 1. Ensure you have Java and Maven installed on your system.
