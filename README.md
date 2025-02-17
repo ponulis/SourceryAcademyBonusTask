@@ -24,13 +24,13 @@ Implement a decompression method to reconstruct the original string from the com
 - For a string like `"a1b1c1"`, the output should be `"abc"`.
 - For an empty string, the output should be `""`.
 
-### How to Run
+## How to Run
 1. Ensure you have Java and Maven installed on your system.
 2. Navigate to the project directory.
 3. Compile the project using Maven: ```mvn compile```
 4. Run the application:  ```mvn exec:java```
 
-### How to Run Tests
+## How to Run Tests
 1. Ensure you have Java and Maven installed on your system.
 2. Navigate to the project directory.
 3. Run the tests using Maven: ```mvn test```
